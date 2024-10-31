@@ -12,4 +12,4 @@ Data is stored in CSV files.
 
 ## Project Information
 
-This project was developed for the course _Object-Oriented Programming 1_.
+This project was developed for the course _Object-Oriented Programming 1_ in 2020.
